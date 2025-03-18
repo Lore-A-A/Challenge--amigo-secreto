@@ -1,24 +1,25 @@
 #  Amigo Secreto - Sorteo de Nombres
-
 ![Portada del Proyecto](amigo-secreto-portada.png)
 
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-Completado-green)
 
-## Índice
+## 📖 Índice
 1. [Descripción del Proyecto](#-descripción-del-proyecto)
 2. [Estado del Proyecto](#-estado-del-proyecto)
 3. [Demostración de Funciones y Aplicaciones](#-demostración-de-funciones-y-aplicaciones)
 4. [Acceso al Proyecto](#-acceso-al-proyecto)
 5. [Tecnologías Utilizadas](#-tecnologías-utilizadas)
+6. [Licencia](#-licencia)
+
 ---
 
-##   Descripción del Proyecto
+## 📋 Descripción del Proyecto
 Este es un proyecto desarrollado en **JavaScript**, **HTML** y **CSS** que permite a los usuarios ingresar nombres de amigos en una lista y luego realizar un **sorteo aleatorio** para determinar quién será el "amigo secreto".
 
-##   Estado del Proyecto
+## 📌 Estado del Proyecto
 Completado ✅
 
-##   Demostración de Funciones y Aplicaciones
+## 🎮 Demostración de Funciones y Aplicaciones
 
 1. Escribe el nombre de un amigo en el campo de texto.
 2. Presiona el botón **"Añadir"** para agregarlo a la lista.
@@ -31,7 +32,7 @@ Completado ✅
 
 1. **Clona este repositorio en tu computadora:**
    ```bash
-   git clone https://github.com/Lore-A-A/Challenge--amigo-secreto
+   git clone https://github.com/MakaryV/ONE-challenge-1.git
    ```
 
 2. **Accede a la carpeta del proyecto:**
@@ -57,7 +58,5 @@ Completado ✅
 - HTML5
 - CSS3
 - JavaScript
-
----
 
 Elaborado por Lorena Avilés Arellano 
