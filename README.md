@@ -10,17 +10,15 @@
 3. [Demostración de Funciones y Aplicaciones](#-demostración-de-funciones-y-aplicaciones)
 4. [Acceso al Proyecto](#-acceso-al-proyecto)
 5. [Tecnologías Utilizadas](#-tecnologías-utilizadas)
-6. [Licencia](#-licencia)
-
 ---
 
-## Descripción del Proyecto
+##   Descripción del Proyecto
 Este es un proyecto desarrollado en **JavaScript**, **HTML** y **CSS** que permite a los usuarios ingresar nombres de amigos en una lista y luego realizar un **sorteo aleatorio** para determinar quién será el "amigo secreto".
 
-## Estado del Proyecto
+##   Estado del Proyecto
 Completado ✅
 
-## Demostración de Funciones y Aplicaciones
+##   Demostración de Funciones y Aplicaciones
 
 1. Escribe el nombre de un amigo en el campo de texto.
 2. Presiona el botón **"Añadir"** para agregarlo a la lista.
