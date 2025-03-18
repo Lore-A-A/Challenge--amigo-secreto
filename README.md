@@ -33,12 +33,11 @@ Este es un proyecto desarrollado en **JavaScript**, **HTML** y **CSS** que permi
 
 1. **Clona este repositorio en tu computadora:**
    ```bash
-   git clone https://github.com/MakaryV/ONE-challenge-1.git
-   ```
+   git clone https://github.com/Lore-A-A/Challenge--amigo-secreto
 
 2. **Accede a la carpeta del proyecto:**
    ```bash
-   cd ONE-challenge-1
+   cd Challenge--amigo-secreto
    ```
 
 3. **Abre el archivo `index.html` en tu navegador.**
