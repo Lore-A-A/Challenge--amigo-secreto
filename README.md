@@ -42,6 +42,17 @@ Completado ✅
 
 3. **Abre el archivo `index.html` en tu navegador.**
 
+📌 **Publicar en GitHub Pages**:
+1. **Sube tu código** a un repositorio en GitHub.
+2. **Ve a la configuración** del repositorio (**Settings**).
+3. Busca la sección **GitHub Pages**.
+4. En **Source**, selecciona la rama `main` y la carpeta `/root`.
+5. **Guarda los cambios** y espera unos minutos.
+6. **Copia el enlace generado** y compártelo con quien quieras.
+
+📌 **Más información**: [GitHub Pages - Documentación](https://pages.github.com/)
+
+---
 
 ## 🔧 Tecnologías Utilizadas
 - HTML5
