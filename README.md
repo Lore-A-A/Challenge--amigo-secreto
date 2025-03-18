@@ -1,5 +1,4 @@
 # Challenge--amigo-secreto
-<h1> Reto Amigo Secreto </h1>
 
 ![Portada del Proyecto](amigo-secreto-portada.png)
 
