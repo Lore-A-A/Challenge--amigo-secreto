@@ -15,10 +15,10 @@
 ---
 
 ## 📋 Descripción del Proyecto
-Este es un proyecto desarrollado en **JavaScript**, **HTML** y **CSS** que permite a los usuarios ingresar nombres de amigos en una lista y luego realizar un **sorteo aleatorio** para determinar quién será el "amigo secreto".
+Proyecto desarrollado en **JavaScript**, **HTML** y **CSS** que permite a los usuarios ingresar nombres de amigos en una lista y luego realizar un **sorteo aleatorio** para determinar quién será el "amigo secreto".
 
 ## Estado del Proyecto
-✅ Completado ✅
+Completado 
 
 ## Demostración de Funciones y Aplicaciones
 
@@ -58,12 +58,6 @@ Este es un proyecto desarrollado en **JavaScript**, **HTML** y **CSS** que permi
 - HTML5
 - CSS3
 - JavaScript
-
----
-
-## 📝 Licencia
-
-Este proyecto está bajo la licencia **MIT**. Puedes usarlo y modificarlo libremente.
 
 ---
 
