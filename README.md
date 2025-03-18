@@ -1,4 +1,4 @@
-# Challenge--amigo-secreto
+#  Amigo Secreto - Sorteo de Nombres
 
 ![Portada del Proyecto](amigo-secreto-portada.png)
 
@@ -14,11 +14,11 @@
 
 ---
 
-## 📋 Descripción del Proyecto
-Proyecto desarrollado en **JavaScript**, **HTML** y **CSS** que permite a los usuarios ingresar nombres de amigos en una lista y luego realizar un **sorteo aleatorio** para determinar quién será el "amigo secreto".
+## Descripción del Proyecto
+Este es un proyecto desarrollado en **JavaScript**, **HTML** y **CSS** que permite a los usuarios ingresar nombres de amigos en una lista y luego realizar un **sorteo aleatorio** para determinar quién será el "amigo secreto".
 
 ## Estado del Proyecto
-Completado 
+Completado ✅
 
 ## Demostración de Funciones y Aplicaciones
 
@@ -29,15 +29,16 @@ Completado
 
 ---
 
-## Acceso al Proyecto
+## 🌎 Acceso al Proyecto
 
 1. **Clona este repositorio en tu computadora:**
    ```bash
    git clone https://github.com/Lore-A-A/Challenge--amigo-secreto
+   ```
 
 2. **Accede a la carpeta del proyecto:**
    ```bash
-   cd Challenge--amigo-secreto
+   cd ONE-challenge-1
    ```
 
 3. **Abre el archivo `index.html` en tu navegador.**
@@ -60,6 +61,5 @@ Completado
 - JavaScript
 
 ---
-
 
 Elaborado por Lorena Avilés Arellano 
